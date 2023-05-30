@@ -1,0 +1,11 @@
+const SELLER_TMPLT_FIRST = 'first';
+const SELLER_TMPLT_SECOND = 'second';
+const SELLER_TMPLT_THIRD = 'third';
+const SELLER_TMPLT_FOURTH = 'fourth';
+
+module.exports = {
+  SELLER_TMPLT_FIRST,
+  SELLER_TMPLT_SECOND,
+  SELLER_TMPLT_THIRD,
+  SELLER_TMPLT_FOURTH,
+};

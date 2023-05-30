@@ -1,0 +1,262 @@
+[{
+  "_id": {
+    "$oid": "63c5208106ab63270ff3ebb9"
+  },
+  "code": "XR-A80K",
+  "title": "BRAVIA XR A80K 4K HDR OLED TV with Google TV (2022)",
+  "seller": {
+    "$oid": "63aeea84a392a28f9941774c"
+  },
+  "prodCategory": {
+    "$oid": "63bd76ed4160e4841cd6cdb6"
+  },
+  "prodSubCategory": {
+    "$oid": "63c13a18f2930c6b9bff8521"
+  },
+  "prodGroup": {
+    "$oid": "63c13a79f2930c6b9bff8524"
+  },
+  "desc": "<h4>About This Item</h4>\n<ul>\n    <li><p>Intelligent TV processing technology with Cognitive Processor XR that delivers natural and realistic picture quality.</p></li>\n    <li><p>Immersive depth and realism with lifelike brightness enhanced by XR OLED Contrast Pro.</p></li>\n    <li><p>Billions of accurate colors deliver natural and beautiful picture quality, enhanced by XR Triluminos Pro.</p></li>\n</ul>",
+  "discountPercent": 0,
+  "shipmentPrice": 15,
+  "variantCombos": [
+      {
+        "variantCombo":[
+          {
+            "variant":"639bfd999726e29f7b4242ef",
+            "value":"55\""
+          },
+          {
+            "variant":"63c50a129d6a2e32789e55e4",
+            "value":"Black"
+          }
+        ],
+        "price":1799.99,
+        "qty":10
+      },
+      {
+        "variantCombo":[
+          {
+            "variant":"639bfd999726e29f7b4242ef",
+            "value":"65\""
+          },
+          {
+            "variant":"63c50a129d6a2e32789e55e4",
+            "value":"Black"
+          }
+        ],
+        "price":1299.99,
+        "qty":10
+      },
+      {
+        "variantCombo":[
+          {
+            "variant":"639bfd999726e29f7b4242ef",
+            "value":"77\""
+          },
+          {
+            "variant":"63c50a129d6a2e32789e55e4",
+            "value":"Black"
+          }
+        ],
+        "price":1799.99,
+        "qty":10
+      }
+  ],
+  "imageUrls": [
+    "https://firebasestorage.googleapis.com/v0/b/buyasia-f0b31.appspot.com/o/buy-asia-seller%2FXR-A80K_1.png?alt=media&token=896bb935-8581-4ae0-ab8c-a06976f50726",
+    "https://firebasestorage.googleapis.com/v0/b/buyasia-f0b31.appspot.com/o/buy-asia-seller%2FXR-A80K_2.png?alt=media&token=7b373cf3-2f78-445d-b0fd-b4ea5b4e8394",
+    "https://firebasestorage.googleapis.com/v0/b/buyasia-f0b31.appspot.com/o/buy-asia-seller%2FXR-A80K_3.png?alt=media&token=0638d89e-a56c-47f9-9abd-74f94dfc0101",
+    "https://firebasestorage.googleapis.com/v0/b/buyasia-f0b31.appspot.com/o/buy-asia-seller%2FXR-A80K_4.png?alt=media&token=5ab70a65-97b4-4fb3-afed-a504eadd4961",
+    "https://firebasestorage.googleapis.com/v0/b/buyasia-f0b31.appspot.com/o/buy-asia-seller%2FXR-A80K_5.png?alt=media&token=a288462c-b46c-403d-935b-48ba7cf0d42b",
+    "https://firebasestorage.googleapis.com/v0/b/buyasia-f0b31.appspot.com/o/buy-asia-seller%2FXR-A80K_6.png?alt=media&token=e5f56871-1667-4265-a139-2283ca555e0f",
+    "https://firebasestorage.googleapis.com/v0/b/buyasia-f0b31.appspot.com/o/buy-asia-seller%2FXR-A80K_7.png?alt=media&token=c648899c-6058-43e0-95be-be3bb56c6b36"
+  ],
+  "videoUrl": "https://firebasestorage.googleapis.com/v0/b/buyasia-f0b31.appspot.com/o/buy-asia-seller%2FXR-A80K.mp4?alt=media&token=b201568c-e3b1-496c-8d76-fe8ec4f0a856",
+  "specs": [
+    {
+      "title": "General",
+      "sections": [
+        {
+          "title": "Accessories",
+          "keyValPairs": [
+            {
+              "key": "Optional accessories",
+              "value": "Camera Unit (CMU-BC1); Wallmount Bracket (SU-WL855) Depends on country selection",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc0"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "63c5208106ab63270ff3ebbf"
+          }
+        },
+        {
+          "title": "Built-in Tuner",
+          "keyValPairs": [
+            {
+              "key": "CI+",
+              "value": "-",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc2"
+              }
+            },
+            {
+              "key": "Number of Tuners (Sat)",
+              "value": "-",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc3"
+              }
+            },
+            {
+              "key": "Number of Tuners (Terrestrial/Cable)",
+              "value": "1(Digital/Analog)",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc4"
+              }
+            },
+            {
+              "key": "TV System (Analog)",
+              "value": "M",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc5"
+              }
+            },
+            {
+              "key": "TV System (Digital Cable)",
+              "value": "Clear QAM",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc6"
+              }
+            },
+            {
+              "key": "TV System (Digital Sat)",
+              "value": "-",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc7"
+              }
+            },
+            {
+              "key": "TV System (Digital Terrestrial)",
+              "value": "ATSC/ATSC 3.0(NEXTGEN TV)",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc8"
+              }
+            },
+            {
+              "key": "Tuner Channel Coverage (Analog)",
+              "value": "VHF: 2-13/UHF: 14-69/CATV: 1-135",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebc9"
+              }
+            },
+            {
+              "key": "Tuner Channel Coverage (Digital Cable)",
+              "value": "CATV: 1-135",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebca"
+              }
+            },
+            {
+              "key": "Tuner Channel Coverage (Digital Terrestrial)",
+              "value": "VHF: 2–13/UHF: 14–69 (2–13/14–36 for ATSC3.0)",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebcb"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "63c5208106ab63270ff3ebc1"
+          }
+        },
+        {
+          "title": "Design",
+          "keyValPairs": [
+            {
+              "key": "BEZEL COLOR",
+              "value": "Titanium Black",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebcd"
+              }
+            },
+            {
+              "key": "BEZEL DESIGN",
+              "value": "Metal Flush Surface",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebce"
+              }
+            },
+            {
+              "key": "Remote Control",
+              "value": "Standard Remote",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebcf"
+              }
+            },
+            {
+              "key": "STAND COLOR",
+              "value": "Titanium Black",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebd0"
+              }
+            },
+            {
+              "key": "STAND POSITION",
+              "value": "Three-way position (Standard position/Narrow position/Soundbar position)",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebd1"
+              }
+            },
+            {
+              "key": "Stand design",
+              "value": "Metal Slim Wedged Stand",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebd2"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "63c5208106ab63270ff3ebcc"
+          }
+        },
+        {
+          "title": "Features for​ PlayStation®5",
+          "keyValPairs": [
+            {
+              "key": "Auto Genre Picture Mode",
+              "value": "Yes",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebd4"
+              }
+            },
+            {
+              "key": "Auto HDR Tone Mapping",
+              "value": "Yes",
+              "_id": {
+                "$oid": "63c5208106ab63270ff3ebd5"
+              }
+            }
+          ],
+          "_id": {
+            "$oid": "63c5208106ab63270ff3ebd3"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "63c5208106ab63270ff3ebbe"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1673863297553"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673863297553"
+    }
+  },
+  "__v": 0
+}]

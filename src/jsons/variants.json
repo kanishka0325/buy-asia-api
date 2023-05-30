@@ -1,0 +1,19 @@
+[
+    {
+      "_id": {
+          "$oid": "63c50a129d6a2e32789e55e4"
+      },
+      "name":"Color",
+      "createdAt": {
+          "$date": {
+            "$numberLong": "1673276118995"
+          }
+        },
+        "updatedAt": {
+          "$date": {
+            "$numberLong": "1673276118995"
+          }
+        },
+        "__v": 0
+  }
+]
