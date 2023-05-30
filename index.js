@@ -32,7 +32,7 @@ const listner = app.listen(process.env.PORT || 4000, () => {
 
 app.all('*', (req, res) => {
   res.status(404).send({
-    error: 'This resource not found! testing new cicd pipeline',
+    error: 'Sorry! This resource not found! testing new cicd pipeline',
   });
 });
 
