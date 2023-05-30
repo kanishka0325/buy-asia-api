@@ -22,6 +22,6 @@ jobs:
       run: |
         aws deploy create-deployment \
         --application-name buy-asia-api \
-        --deployment-group-name buy-asia-api-dgroup \
+        --deployment-group-name buy-asia-group \
         --deployment-config-name CodeDeployDefault.OneAtATime \
         --github-location repository=${{ github.repository }},commitId=${{ github.sha }}
